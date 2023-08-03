@@ -5,7 +5,7 @@
  * @tree: pointer to a root node
  * @func: pointer to a function
  *
- * Description: The function goes through a binary tree 
+ * Description: The function goes through a binary tree
  * using pre-order travesal
  * Return: nothing
  */
